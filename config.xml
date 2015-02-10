@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="be.aca.mobile" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>iBeacon PhoneGap</name>
+    <name>ACA iBeacon Base Project</name>
     <description>
-        A PhoneGap iBeacon sample app
+        An iBeacon sample app
     </description>
     <author email="yakup.kalin@aca-it.be" href="http://mobile.aca-it.be">
         Yakup Kalin

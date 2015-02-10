@@ -1,7 +1,7 @@
-iBeaconPhoneGap
+iBeaconBaseProject
 ===============
 
-iBeacon PhoneGap Sample App using [cordova-plugin-ibeacon](https://github.com/petermetz/cordova-plugin-ibeacon).
+ACA iBeacon Sample App using [cordova-plugin-ibeacon](https://github.com/petermetz/cordova-plugin-ibeacon).
 
 ### Steps
 
@@ -14,7 +14,7 @@ cordova platforms add android
 cordova platforms add ios
 ```
 
-The needed PhoneGap plugins will be automatically added during platform add.
+The needed Cordova plugins will be automatically added during platform add.
 
 #### 2. Build iOS/Android
 ```
